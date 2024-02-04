@@ -57,3 +57,5 @@ Se ejecuta en el directorio donde se encutra el script
 ```cmd
 ./github_script.sh
 ```
+![1](./imagenes/1.png )
+![2](./imagenes/2.png )
