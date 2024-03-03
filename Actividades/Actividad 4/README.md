@@ -50,7 +50,7 @@ while true; do
     echo "$response" > /tmp/user2_to_user1
   fi
 done
-``'
+```
 
 ## CHAT
 ___
@@ -63,4 +63,4 @@ ___
 ![1.png](./imagenes/1.png)
 
 ***Demostracion de uso***
-![Descripción del GIF](./imagenes/uso.gif)
+![uso.gif](./imagenes/uso.gif)
